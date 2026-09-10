@@ -1,0 +1,18 @@
+# NetBeans / Ant build outputs
+/build/
+/dist/
+
+# NetBeans local (machine-specific) project settings
+nbproject/private/
+
+# Compiled class files (caso sejam gerados fora de build/)
+*.class
+
+# Sistema operacional / editores
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Ambiente (segredos locais, caso venham a existir)
+.env
