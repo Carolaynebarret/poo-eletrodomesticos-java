@@ -1,4 +1,4 @@
-# PO
+# Modelagem POO — Eletrodomésticos
 
 ![Java](https://img.shields.io/badge/Java-8%2B-ED8B00?logo=openjdk&logoColor=white)
 ![Build](https://img.shields.io/badge/build-Ant%20%2F%20NetBeans-blue)
@@ -39,8 +39,8 @@ Não é uma aplicação com interface gráfica ou linha de comando interativa �
 ## Instalação
 
 ```bash
-git clone https://github.com/Carolaynebarret/PO.git
-cd PO
+git clone https://github.com/Carolaynebarret/poo-eletrodomesticos-java.git
+cd poo-eletrodomesticos-java
 ```
 
 Não há dependências externas para baixar — o projeto usa apenas a biblioteca padrão do Java.
@@ -74,7 +74,7 @@ Este projeto **não possui suíte de testes automatizados** (não há testes uni
 ## Estrutura de pastas
 
 ```
-PO/
+poo-eletrodomesticos-java/
 ├── src/prova/
 │   ├── Equipamento.java   # classe abstrata base
 │   ├── Ligavel.java       # interface de equipamentos ligáveis
